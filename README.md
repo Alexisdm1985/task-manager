@@ -16,7 +16,6 @@ Check out [task-manager-app](https://task-manager-production-v1.up.railway.app/)
     //Run the server at localhost:3000
     $ npm run dev
     ```
-- Go to `http://localhost:3000/html/index.html` to see the form.
 
 ## Features
 
